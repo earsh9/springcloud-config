@@ -1,2 +1,2 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=5555! 查看config server 和 client 能否同步"
+  info: "master branch,springcloud-config/config-dev.yml version=6"
